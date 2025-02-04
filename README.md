@@ -9,7 +9,7 @@ This comment sparked significant controversy, with many pointing out its bias. C
 
 Curious about the validity of Audiard's statement, I decided to explore economic data to compare the wealth of French-speaking and Spanish-speaking countries.
 
-__The results showed that on average, francophone countries are actually poorer than Spanish-speaking ones.__
+__The results of the data visualization analysis showed that on average, francophone countries are actually poorer than Spanish-speaking ones.__
 
 ![GDP per capita over time by language](/plot1_en.png)
 ![GDP per capita over time by language with confidence intervals](/plot2_en.png)
